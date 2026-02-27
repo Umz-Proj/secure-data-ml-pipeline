@@ -1,0 +1,12 @@
+# Virtual environments
+venv/
+etl-service/venv/
+
+# Logs
+*.log
+
+# Generated data
+*.json
+
+# macOS
+.DS_Store
