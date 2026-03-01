@@ -71,3 +71,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+    print("ETL pipeline executed successfully inside Docker.")
